@@ -1,0 +1,33 @@
+<ModMetaData>
+	<name>Searchable Menus</name>
+	<author>kathanon</author>
+	<packageId>kathanon.SearchableMenus</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description>Adds a quick search field to any float menu that is at least a minimum size (configurable, default 15).
+
+Safe to add and remove at any time.
+
+Note for mod developers: 
+The menu search field is available for modders through the Float Sub-Menus mod. This mod just adds it to menus that do not already have it.</description>
+	<url>https://github.com/kathanon/RimWorld-SearchableMenus</url>
+
+	<modDependencies>
+		<li>
+			<packageId>UnlimitedHugs.HugsLib</packageId>
+			<displayName>HugsLib</displayName>
+			<downloadUrl>https://github.com/UnlimitedHugs/RimworldHugsLib/releases/latest</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/818773962</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>kathanon.FloatSubMenu</packageId>
+			<displayName>Float Sub-Menus</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2864015430</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>UnlimitedHugs.HugsLib</li>
+		<li>kathanon.FloatSubMenu</li>
+	</loadAfter>
+</ModMetaData>

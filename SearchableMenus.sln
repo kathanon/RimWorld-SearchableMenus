@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{1648BA6F-B3B7-4B4E-8352-27B0033996F6}") = "SearchableMenus", "Source\SearchableMenus.csproj", "{80FCA3B1-B393-4F43-AFEC-D8BBE2955332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80FCA3B1-B393-4F43-AFEC-D8BBE2955332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FCA3B1-B393-4F43-AFEC-D8BBE2955332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FCA3B1-B393-4F43-AFEC-D8BBE2955332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FCA3B1-B393-4F43-AFEC-D8BBE2955332}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC2700F3-5BFC-4E4B-8340-C8ABEFD089C4}
+	EndGlobalSection
+EndGlobal

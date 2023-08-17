@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <kathanon.SearchableMenus.ThresholdTitle>Min options</kathanon.SearchableMenus.ThresholdTitle>
+    <kathanon.SearchableMenus.ThresholdDesc>Add search field if menu has at least this many options.</kathanon.SearchableMenus.ThresholdDesc>
+    <kathanon.SearchableMenus.RecursiveTitle>Include sub-menus</kathanon.SearchableMenus.RecursiveTitle>
+    <kathanon.SearchableMenus.RecursiveDesc>If active, any sub-menus will be considered part of the top menu (for searching and min options).</kathanon.SearchableMenus.RecursiveDesc>
+</LanguageData>
